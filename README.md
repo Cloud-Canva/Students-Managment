@@ -1,11 +1,9 @@
-# GitHub Codespaces ♥️ Flask
+# Student Management 
+The Student Management System, developed collaboratively by a team of four, is a web-based application designed to efficiently manage and process student data. Leveraging Flask, a Python web framework, this system utilizes HTML, CSS, and JavaScript for frontend development.
 
-Welcome to your shiny new Codespace running Flask! We've got everything fired up and running for you to explore Flask.
+Key features include dynamic data processing through user input, enabling real-time updates and calculations. Particularly, the system provides robust functionality for updating student attendance records, facilitating clear differentiation between present and absent students.
 
-You've got a blank canvas to work on from a git perspective as well. There's a single initial commit with the what you're seeing right now - where you go from here is up to you!
-
-Everything you do here is contained within this one codespace. There is no repository on GitHub yet. If and when you’re ready you can click "Publish Branch" and we’ll create your repository and push up your project. If you were just exploring then and have no further need for this code then you can simply delete your codespace and it's gone forever.
-
+This project serves as a practical implementation for the Software Lab Project, showcasing the integration of various technologies to achieve a comprehensive solution for student data management.
 To run this application:
 
 ```
